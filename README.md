@@ -23,7 +23,10 @@ Agent 说简单也简单  说繁琐也够繁琐 入门别的Agent项目可能会
 
 Agent = LLM + plan + think + act + reflection + MCP
 
-提个prompt 就让Agent 自动给你在服务器上生成代码跑代码 全程不需要交互, 想不想是不是很有意思，大胆一点 以后baseline就交给Agent了 
+提个prompt 就让Agent 自动给你在服务器上生成代码跑代码 全程不需要交互, 想不想是不是很有意思，大胆一点 以后每天工作就交给Agent了，把Agent当实习生使唤
+
+
+同时足够Baby, 大胆体验本项目，本项目开发测试总计三天，累计花费的API费用不到0.5元
 
 
 
