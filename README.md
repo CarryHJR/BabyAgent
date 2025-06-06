@@ -4,6 +4,7 @@
 
 设计逻辑1:1复刻 lemonai ，只是去掉了前端设计 和 繁琐的数据库设计(直接json写入简单明了)
 
+![image](https://github.com/user-attachments/assets/d99b3442-5738-477b-b9a6-63e57a88cf6e)
 
 
 ## 功能特点
